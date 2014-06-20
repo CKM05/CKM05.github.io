@@ -11,4 +11,8 @@ display: block;
 }
 body{
 background-color: #0FD8F7;
+background-image: url
+('http://dl6.iq11download.com/icnmedia/332d289b-c87e-4a8e-b31a-79ee13e7a985.jpg');
+background-repeat:no-repeat;
+background-size:cover;
 }
